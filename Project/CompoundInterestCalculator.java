@@ -1,3 +1,4 @@
+package Project;
 // Java Mini Project: Compound Interest Calculator
 // Concepts Used: Variables, Scanner, Arithmetic, Math.pow(), printf
 

@@ -1,4 +1,4 @@
-package Projects;
+package Project;
 // Java Mini Project: Simple Mad Libs Game
 // Uses: Variables + Scanner (User Input)
 

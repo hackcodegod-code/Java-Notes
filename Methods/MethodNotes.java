@@ -1,3 +1,4 @@
+package Methods;
 // Java Notes: Methods in Java
 // Concepts Used: Method Creation, Parameters, Return Types, Method Calling
 

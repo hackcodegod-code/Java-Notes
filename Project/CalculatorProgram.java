@@ -1,3 +1,4 @@
+package Project;
 // Java Mini Project: Calculator Program
 // Concepts Used: Variables, Scanner, Arithmetic, Enhanced Switch, printf
 

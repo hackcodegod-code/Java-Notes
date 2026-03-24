@@ -1,3 +1,4 @@
+package Project;
 
 // Java Mini Project: Shopping Cart Program (Well-Documented)
 // Concepts Used: Variables, Scanner (User Input), Arithmetic

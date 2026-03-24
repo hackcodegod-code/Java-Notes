@@ -1,3 +1,4 @@
+package Project;
 // Java Mini Project: Number Guessing Game
 // Concepts Used: Variables, Scanner, Random, While Loop, If-Else, Counters
 
